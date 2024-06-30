@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./digit_recognizer/model"
+    ]
+}
