@@ -1,9 +1,0 @@
-1. This is an application for simple calculation based on drawn letters on the screen. 
-2. It will require the following functions: 
-- Identifying hands
-- Finding the finger tips
-- If index finger pointing, then the drawing starts on the screen. 
-- If index & middle finger pointing, then the eraser starts. 
-- It will track the numbers and operators written by hand on another screen or stream so that we can identify the calculation. 
-- We need Neural Networks to recognize the numbers and operators.
-- Now calculate the results and show the result on the screen. 
