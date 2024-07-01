@@ -4,7 +4,7 @@ This is an application for performing simple calculations based on letters drawn
 
 ## Prerequisite
 
-- tbd
+- to be added 
 
 ## Implementation
 
@@ -30,20 +30,7 @@ The application consists of several key functionalities:
 
 ## How to Use
 
-### Step 1: Hand Identification
-Detect hands in the video feed.
-
-### Step 2: Finger Tip Detection
-Identify the finger tips in the detected hands.
-
-### Step 3: Drawing and Erasing Mechanism
-Start drawing or erasing on the screen based on finger gestures.
-
-### Step 4: Tracking Numbers and Operators
-Track numbers and operators written by hand and recognize them using Neural Networks.
-
-### Step 5: Calculating Results
-Perform calculations and display the result on the screen.
+- to be added
 
 ## Summary
 
